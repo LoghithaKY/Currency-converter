@@ -18,7 +18,7 @@ The Currency Converter app is an Android application developed using Java in And
 ### Steps to Run the Project
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/LoghithaKY/Medicinal_Plant_Classification.git
+    git clone 
     ```
 2. **Open the Project in Android Studio:**
    - Launch Android Studio.
